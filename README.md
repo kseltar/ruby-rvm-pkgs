@@ -56,4 +56,5 @@ directly at mkent@magoazul.com.
 Credit
 ------
 
-These packages are based off the Gentoo ebuilds within the rvm git repository.
+These packages are based off the Gentoo ebuilds within the ruby-rvm git 
+repository.
